@@ -5,7 +5,7 @@ Example of AC-GAN for generating specific digits. This example uses the MNIST da
 ![arch-AC-GAN](https://github.com/rjpg/AC-GAN/assets/22857941/f569638a-ca29-4731-9000-b8c0d8b337fa)
 
 
-Generating After 200 epochs :
+Generator output for each given call after 200 epochs :
 
 ![200](https://github.com/rjpg/AC-GAN/assets/22857941/174bbadd-aa79-4c9d-abf4-bf8cfe3f42e1)
 
